@@ -1,0 +1,3 @@
+*.swp
+usersvc.egg-info/
+usersvc.sqlite
